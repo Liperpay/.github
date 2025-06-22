@@ -1,5 +1,1 @@
- Liperpay
-
- Scalable Payment Solutions for Businesses
-
- Liper is developing a scalable payments infrastructure built to support businesses of all sizes across various markets. Our solutions are designed to offer seamless, secure, and efficient payment processing, catering to the unique needs of both small enterprises and large organizations.
+Liper is a cutting-edge financial services platform designed to empower digital world and commerce across Africa and beyond. With a mission to simplify financial transactions, Liper offers secure, fast, and seamless payment processing solutions tailored for the masses and businesses of all sizes. Whether you’re a thriving online marketplace or an individual entrepreneur, Liper provides the tools you need to manage payments with confidence.
