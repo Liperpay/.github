@@ -32,6 +32,7 @@ Digital identity and KYC infrastructure supporting document capture, biometric v
 
 ## About LiperPay ℹ️
 
-LiperPay is part of NXTGI (Next Generation Innovations), a technology group building world-class digital infrastructure across finance, healthcare, commerce, logistics, and mobility.
+LiperPay is part of NXTGI (Next Generation Innovations), a technology company building world-class digital infrastructure across finance, healthcare, commerce, logistics, and mobility.
 
 Official website: https://liperpay.com
+Official website: https://nxtgi.com
