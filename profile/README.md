@@ -18,7 +18,7 @@ High-performance transaction processing systems powering wallets, transfers, set
 
 Secure digital wallet infrastructure supporting balance management, peer-to-peer transfers, bill payments, and merchant transactions.
 
-#### CashLink Agent Network
+#### CashLink Provider Network
 
 A digital first cash in and cash out network enabling deposits, withdrawals, and liquidity movement through flexible, QR-powered agents extending financial access beyond traditional banking reach.
 
