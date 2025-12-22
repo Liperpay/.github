@@ -42,7 +42,7 @@ Digital identity and KYC infrastructure supporting document capture, biometric v
   
 	•	Programmatic and API-driven financial services
 
-## About LiperPay ℹ️
+## About Liperpay ℹ️
 
 LiperPay is part of NXTGI (Next Generation Innovations), a technology company building world-class digital infrastructure across finance, healthcare, commerce, logistics, and mobility.
 
