@@ -30,7 +30,7 @@ An online payment gateway and escrow engine designed for ecommerce platforms, bu
 
 Digital identity and KYC infrastructure supporting document capture, biometric verification, and compliance workflows.
 
-## About LiperPay
+## About LiperPay ℹ️
 
 LiperPay is part of NXTGI (Next Generation Innovations), a technology group building world-class digital infrastructure across finance, healthcare, commerce, logistics, and mobility.
 
