@@ -4,7 +4,7 @@ LiperPay is a next-generation payments infrastructure designed to power fast, se
 
 Built with scale, reliability, and real-world use cases in mind, LiperPay enables individuals, businesses, and platforms to move money efficiently through modern APIs and infrastructure.
 
-## Our Mission 💡
+## Our Mission 🎯
 
 To build a world class digital infrastructure that makes payments and financial access fast, reliable, affordable, and scalable, empowering individuals, businesses, and platforms to participate fully in the digital economy.
 
