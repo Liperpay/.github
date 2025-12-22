@@ -30,6 +30,18 @@ An online payment gateway and escrow engine designed for ecommerce platforms, bu
 
 Digital identity and KYC infrastructure supporting document capture, biometric verification, and compliance workflows.
 
+## Use Cases 🧩
+
+	•	Digital wallets and consumer payment apps
+  
+	•	Agent-based cash in / cash out networks
+  
+	•	Marketplaces and platforms embedding payments
+  
+	•	Merchant payment acceptance
+  
+	•	Programmatic and API-driven financial services
+
 ## About LiperPay ℹ️
 
 LiperPay is part of NXTGI (Next Generation Innovations), a technology company building world-class digital infrastructure across finance, healthcare, commerce, logistics, and mobility.
